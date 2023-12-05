@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e198df03.css",
+    "main.js": "/static/js/main.6b3557b7.js",
+    "static/js/650.52590b03.chunk.js": "/static/js/650.52590b03.chunk.js",
+    "static/media/photome.png": "/static/media/photome.110a95a9e86a268ffd57.png",
+    "static/media/leadaction.png": "/static/media/leadaction.6561c32a9ef42be803d8.png",
+    "static/media/WristbandStore.JPG": "/static/media/WristbandStore.d6a5ebbccba6924e3c05.JPG",
+    "static/media/MusicAcademy.JPG": "/static/media/MusicAcademy.893e0334b53814bed911.JPG",
+    "static/media/page_not_found.png": "/static/media/page_not_found.8547083998d2c625d66e.png",
+    "index.html": "/index.html",
+    "main.e198df03.css.map": "/static/css/main.e198df03.css.map",
+    "main.6b3557b7.js.map": "/static/js/main.6b3557b7.js.map",
+    "650.52590b03.chunk.js.map": "/static/js/650.52590b03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e198df03.css",
+    "static/js/main.6b3557b7.js"
+  ]
+}
